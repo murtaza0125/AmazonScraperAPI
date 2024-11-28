@@ -1,1 +1,1 @@
-Pricing, product information from Amazon in JSON format
+Pricing, product information, reviews, offers and search from Amazon in JSON format
